@@ -23,3 +23,23 @@
 ### README.md
 
 - started to write about the changes I did with build 0.0.0 and 0.0.1 while preparing to write the changes of each build and format with separation of the changes in the build with the type of code and the change
+
+## Build 0.0.2
+
+### CSS
+
+    - no changes
+
+### JS
+
+    - commented out alert so it is off for now
+
+### HTML
+
+    - Added a nav with H1 and ul with 2 li's on both contact and home
+
+    - working on getting it left to right with flex or grid
+
+### README.md
+
+    -Just added the newest update of previous build and changes in current build
