@@ -28,18 +28,32 @@
 
 ### CSS
 
-    - no changes
+- no changes
 
 ### JS
 
-    - commented out alert so it is off for now
+- commented out alert so it is off for now
 
 ### HTML
 
-    - Added a nav with H1 and ul with 2 li's on both contact and home
+- Added a nav with H1 and ul with 2 li's on both contact and home
 
-    - working on getting it left to right with flex or grid
+- working on getting it left to right with flex or grid
 
 ### README.md
 
-    -Just added the newest update of previous build and changes in current build
+- Just added the newest update of previous build and changes in current build
+
+## Build 0.0.3
+
+### CSS
+
+- worked on main and got navigation to work left to right with a slate grey background
+
+### JS
+
+- No changes
+
+### HTML
+
+- Just added a paragraph with JS inside script tag and made moved my JS file linked to the very bottom
