@@ -57,3 +57,27 @@
 ### HTML
 
 - Just added a paragraph with JS inside script tag and made moved my JS file linked to the very bottom
+
+### README.md
+
+- Just update last build information to not be a thing to copy but to put as list
+
+- also just added new code updates on README.md file of new changes.
+
+## Build 0.0.4
+
+### CSS
+
+- no changes
+
+### JS
+
+- no changes
+
+### HTML
+
+- worked on contact and index.html files to ensure they were ready for css and js
+
+### README.md
+
+- justed added code updates on the README.md file and progress made since last build

@@ -14,6 +14,32 @@
             <li><a href="#">Contact</a></li>
         </ul>
     </nav>
+
+    <form action="contact.html" method="get">
+        <h2 id="contactFormHeader">Contact Form</h2>
+        <p id="form">if urgent please contact me with your name and reason of contact to christian96torres@yahoo.com</p>
+        <label for="fName" name="fName">First Name:</label>
+        <input type="text" name="fName" id="fName" placeholder="John" pattern="[a-z A-Z]" min="0" max="12" required>
+        <label for="lName" name="lName">Last Name:</label>
+        <input type="text" name="lName" id="lName" placeholder="Doe" pattern="[a-z A-Z]" min="0" max="12" required>
+        <br>
+        <label for="email" name="email">Email:</label>
+        <input type="text" for="email" name="email" id="email" placeholder="yourname@email.com" required>
+        <br>
+        <label for="subject" name="subject">Subject:</label>
+        <input type="text" name="subject" id="subject" placeholder="Subject of Inquiry" pattern="[a-z A-Z]" min="0" max="25" required>
+        <br>
+        <label for="message" name="message">Message:</label>
+        <br>
+        <textarea cols="15" rows="15" required pattern="[a-z A-Z 0-9]" placeholder="Message I would like to send to receiver"></textarea>
+        <br>
+        <button id="submitBtn">Submit</button>
+    </form>
+        <footer>
+     <p>Copyright &copy; 2018-<script>
+        document.write(new Date().getFullYear())
+      </script> Christian Torres</p>
+    </footer>
     <script src="../js/main.js"></script>
 </body>
 </html>
