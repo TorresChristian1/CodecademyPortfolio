@@ -81,3 +81,21 @@
 ### README.md
 
 - justed added code updates on the README.md file and progress made since last build
+
+### Build 0.0.5
+
+### CSS
+
+- Just added background color to body and nav stayed with slategrey
+
+### JS
+
+- added a innerHTML and document command
+
+### HTML
+
+- No Changes
+
+### README.md
+
+- Just Added the changes made
