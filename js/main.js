@@ -1,3 +1,3 @@
 // alert('Test Connection');
 
-document.getElementById('submitBtn').innerHTML = 'Submitted Form';
+// document.getElementById('submitBtn').innerHTML = 'Submitted Form';

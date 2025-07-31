@@ -99,3 +99,21 @@
 ### README.md
 
 - Just Added the changes made
+
+## Build 0.0.6
+
+ ## CSS
+
+ - didn't make any changes to the css
+
+ ## JS
+
+ - Just commented out document.getElement code affecting submit button
+
+ ## HTML
+
+ - made changes to contact and index to remove 2018- from copyright on bottom of webpages.
+
+ ## README.md
+
+ -Justed added changes to Build 0.0.6
