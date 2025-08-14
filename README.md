@@ -102,18 +102,36 @@
 
 ## Build 0.0.6
 
- ## CSS
+### CSS
 
- - didn't make any changes to the css
+- didn't make any changes to the css
 
- ## JS
+### JS
 
- - Just commented out document.getElement code affecting submit button
+- Just commented out document.getElement code affecting submit button
 
- ## HTML
+### HTML
 
- - made changes to contact and index to remove 2018- from copyright on bottom of webpages.
+- made changes to contact and index to remove 2018- from copyright on bottom of webpages.
 
- ## README.md
+### README.md
 
- -Justed added changes to Build 0.0.6
+-Justed added changes to Build 0.0.6
+
+## Build 0.0.7
+
+### CSS
+
+- Just added comments to sections I need to work on.
+
+### JS
+
+- Just added TODO, Question, Alert, and Important information in comment form to allow to work freely and list of tasks that need to be worked on.
+
+### HTML
+
+- Index.html removed some extra that wasn't needed in file.
+
+### README
+
+- Added changed to Build 0.0.7 and fixed Build 0.0.6 from Heading from H2 to a H3.

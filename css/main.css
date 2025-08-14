@@ -3,6 +3,9 @@
     font-family: 'Courier New', Courier, monospace;
 }
 
+/*
+    TODO: Need to find a way to make Home and Contact Links to be on the right of the page.
+*/
 nav{
  display: flex;
  background-color: slategrey;
@@ -25,6 +28,9 @@ nav ul li a {
     text-decoration: none;
 }
 
+/*  
+TODO: need to ensure that background and text color don't blend in and can mix and match.
+*/ 
 body{
     background-color: blanchedalmond;
 }
