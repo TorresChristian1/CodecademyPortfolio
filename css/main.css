@@ -12,19 +12,25 @@ nav{
  width: 100%;
  height: 3.75rem;
 }
+ nav ul {
+    margin-left: 42.567rem;
+ }
 
 nav ul li {
+    text-transform: uppercase;
     font-size: 1.25rem;
     flex-direction: row;
     display: inline-block;
     margin-top: 1.40rem;
     margin-left: .25rem;
-    margin-right: 1.25rem;
+    margin-right: .25rem;
     margin-bottom: 21.6px;
     
 }
 
 nav ul li a {
+    align-items: center;
+    justify-content: center;
     text-decoration: none;
 }
 
@@ -32,5 +38,17 @@ nav ul li a {
 TODO: need to ensure that background and text color don't blend in and can mix and match.
 */ 
 body{
-    background-color: blanchedalmond;
+    background-color: slateblue;
+}
+
+#mainHeading {
+    text-transform: uppercase;
+    font-size:3.505rem;
+    margin-left:37.567rem;
+    margin-right: 2.566rem;
+}
+
+#missionStatement {
+    margin-left:43.676rem;
+    margin-right: 2.566rem;
 }

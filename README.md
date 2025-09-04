@@ -135,3 +135,21 @@
 ### README
 
 - Added changed to Build 0.0.7 and fixed Build 0.0.6 from Heading from H2 to a H3.
+
+## Build 0.0.8
+
+### CSS
+
+- on Main stylesheet I just added new rule and rem to make the Navigation, H1, and Mission Statement Header move to the Middle.
+
+### JS
+
+    - No Change
+
+### HTML
+
+- HTML added a class to two li items of Home and Contact to try to fix issues but haven't removed, but I will next update/build.
+
+### README
+
+- Just added Changes made to Build 0.0.8 and updated in the README.md file.
