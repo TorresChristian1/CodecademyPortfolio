@@ -1,4 +1,4 @@
-// alert('Test Connection');
+alert('Test Connection');
 
 /*
     * Test Connection was made to ensure the JavaScript file was connected to HTML for proper usage.

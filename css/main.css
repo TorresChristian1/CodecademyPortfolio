@@ -43,12 +43,21 @@ body{
 
 #mainHeading {
     text-transform: uppercase;
-    font-size:3.505rem;
-    margin-left:37.567rem;
+    font-size:2.255rem;
+    margin-left:37.797rem;
     margin-right: 2.566rem;
 }
 
 #missionStatement {
-    margin-left:43.676rem;
+    margin-left:40.998rem;
     margin-right: 2.566rem;
+    font-size: 1.775rem;
+}
+
+#mspara {
+    font-size: 1.234rem;
+    border-top: 1.568rem;
+    padding-top: 1.126rem;
+    margin-left: 5rem;
+    margin-right: 5rem;
 }

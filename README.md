@@ -153,3 +153,22 @@
 ### README
 
 - Just added Changes made to Build 0.0.8 and updated in the README.md file.
+
+## Build 0.0.9
+
+### CSS
+
+- made some changes to some rules and for tags of index and contact pages.
+
+### JS
+
+- just uncommented Alert
+
+### HTML
+
+- change Form Header id from contactFormHeader to formHeader
+- removed the class navItems from 2 list items on index
+
+### README
+
+- Updated to newest Build 0.0.9 Logs
