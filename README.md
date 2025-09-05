@@ -116,7 +116,7 @@
 
 ### README.md
 
--Justed added changes to Build 0.0.6
+- Justed added changes to Build 0.0.6
 
 ## Build 0.0.7
 
@@ -144,7 +144,7 @@
 
 ### JS
 
-    - No Change
+- No Change
 
 ### HTML
 
